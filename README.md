@@ -226,8 +226,6 @@ Before starting Ticket Scenario 1, confirm the following:
 
 Once these conditions are met, proceed to the ticket lifecycle scenarios.
 
-
-
 ---
 
 ## Ticket Scenario 1 — Critical Outage (SEV-A)
@@ -243,8 +241,6 @@ Submit the ticket through the End User Portal.
 <img width="1050" height="497" alt="image" src="https://github.com/user-attachments/assets/23ae8da9-a734-4fd0-af81-e8fddbe0ab61" />
 
 <img width="1048" height="842" alt="image" src="https://github.com/user-attachments/assets/1f5eb5d6-96ce-41a9-bed6-d0d18c6451a0" />
-
-
 
 ---
 
@@ -321,9 +317,6 @@ Update the ticket:
 - Department: Support
 
 <img width="892" height="472" alt="image" src="https://github.com/user-attachments/assets/d353b945-81e0-498f-ac29-74e22c433980" />
-
----
-
 
 ---
 
