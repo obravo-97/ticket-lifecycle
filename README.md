@@ -4,13 +4,8 @@
 
 # osTicket: Ticket Lifecycle Examples
 
-This repository documents **end-to-end ticket lifecycle workflows** in osTicket, from ticket creation by end users to triage, escalation, assignment, and resolution by help desk staff.
+This repository documents end-to-end ticket lifecycle workflows in osTicket, from ticket creation by end users to triage, escalation, assignment, and resolution by help desk staff.
 
-This is Part 3 of a three-part osTicket project series:
-
-- [osTicket: Prerequisites and Installation (Part 1)](https://github.com/kylekincaid/osticket-prereqs)
-- [osTicket: Post-Installation Configuration (Part 2)](https://github.com/kylekincaid/post-install-config)
-- osTicket: Ticket Lifecycle Examples (Part 3) 
 ---
 
 ## Access URLs
@@ -39,18 +34,6 @@ This simulation is designed to focus on process and workflow, rather than just c
 
 ---
 
-## Initial Configuration/Setup: Create Required Departments (Admin Panel)
-
-The ticket scenarios in this lab assume the following departments exist:
-
-- SysAdmins (used for escalation and access-control behavior)
-- Online Banking (used in Ticket Scenario 1)
-- Support (used in Ticket Scenarios 2 and 3)
-- Maintenance (will be deleted as part of cleanup)
-
-If your osTicket instance does not already have these departments, create them first using the steps below.
-
----
 
 ### 1) Log into the Admin Panel
 
