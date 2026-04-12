@@ -350,7 +350,7 @@ Update the ticket:
 - SLA: Sev-B (4 hours, 24/7)
 - Department: Support
 
-<img width="1183" height="570" alt="image" src="https://github.com/user-attachments/assets/23d3f8f4-a47a-4f20-b420-c6318f059882" />
+<img width="1536" height="1024" alt="image" src="https://github.com/user-attachments/assets/37450d6b-cd9c-4c2e-a872-bfefeca82bee" />
 
 ---
 
